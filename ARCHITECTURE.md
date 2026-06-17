@@ -49,3 +49,4 @@ When infrastructure separation is ready:
 
 Source control is separated now, but live hosting is still shared. Treat production changes as coupled until hosting is fully split.
 
+See also [MIGRATION_PLAN.md](MIGRATION_PLAN.md).
