@@ -20,7 +20,15 @@ Apex experience / marketing portal repository.
 - `apex.assps.edu.pk` currently shares the same live codebase and PM2 process as `api.assps.edu.pk`
 - Root currently redirects to `/apex`
 
+## Boundary Guide
+
+- Apex brand experience: yes
+- landing and story surfaces: yes
+- demo and onboarding journeys: yes
+- operational dashboards: currently present, but should move out over time
+
+See [ARCHITECTURE.md](ARCHITECTURE.md).
+
 ## Safety
 
 - GitHub pushes do not deploy automatically.
-
